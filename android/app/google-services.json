@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278708748939",
+    "project_id": "e-money-a83f0",
+    "storage_bucket": "e-money-a83f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278708748939:android:5bf5c9815f5307f1524a8e",
+        "android_client_info": {
+          "package_name": "com.example.dompetkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278708748939-dna2e4im20n36q2buj8ie27ni5t2ij5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dompetkita",
+            "certificate_hash": "e812265043ff0cf9f1e84d8d4c8a7fccf0bb81de"
+          }
+        },
+        {
+          "client_id": "278708748939-f0u0nt2of81e1dinn2cgj3h8tkniirb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29OZgESUnc6SpzxEF33UFEApb3nMt68M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278708748939-f0u0nt2of81e1dinn2cgj3h8tkniirb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
