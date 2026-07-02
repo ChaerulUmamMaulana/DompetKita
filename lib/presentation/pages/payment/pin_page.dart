@@ -184,7 +184,7 @@ class _PinPageState extends State<PinPage> {
             } else if (state is PaymentTopupSuccess) {
               context.go('/success', extra: {
                 'title': 'Yeayy Top up Kamu berhasil Nih',
-                'subtitle': 'Saldo kamu bertambah',
+                'subtitle': 'Saldo kamu bertambah lagi nih',
                 'amount': state.amount,
                 'lines': [
                   ['Jumlah', CurrencyFormatter.format(state.amount)],
