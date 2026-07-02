@@ -460,7 +460,7 @@ class _HomePageState extends State<HomePage> {
                             color: Colors.white,
                           )),
                       SizedBox(height: 2),
-                      Text('Simulasi checkout e-commerce → bayar via DKG',
+                      Text('Simulasi checkout e-commerce → bayar via Dompet Kita',
                           style: TextStyle(
                             fontFamily: 'PlusJakartaSans',
                             fontSize: 12.5,
