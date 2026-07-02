@@ -231,7 +231,7 @@ class _PaymentQrPageState extends State<PaymentQrPage> {
                 ],
               ),
               const SizedBox(height: 18),
-              const Text('Total tagihan', style: TextStyle(fontSize: 13, color: AppColors.slate400)),
+              const Text('Total tagihan Kamu', style: TextStyle(fontSize: 13, color: AppColors.slate400)),
               const SizedBox(height: 4),
               Text(CurrencyFormatter.format(amount),
                   style: const TextStyle(
