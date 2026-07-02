@@ -319,7 +319,7 @@ class _PinPageState extends State<PinPage> {
             child: const Center(child: Icon(Icons.lock_outline_rounded, size: 26, color: AppColors.primary)),
           ),
           const SizedBox(height: 16),
-          const Text('Masukkan PIN',
+          const Text('Masukkan PIN kamu',
               style: TextStyle(
                 fontFamily: 'PlusJakartaSans',
                 fontSize: 21,
