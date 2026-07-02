@@ -172,7 +172,7 @@ class _PinPageState extends State<PinPage> {
                 );
               }
               context.go('/success', extra: {
-                'title': 'Pembayaran berhasil',
+                'title': 'Pembayaran Kmau berhasil Nih',
                 'subtitle': result.description,
                 'amount': result.amount,
                 'lines': [
