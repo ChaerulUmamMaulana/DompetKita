@@ -532,7 +532,7 @@ DompetKita menerapkan beberapa mekanisme keamanan
 
 Hal ini bertujuan untuk memastikan bahwa transaksi hanya dapat dilakukan oleh pengguna yang telah terverifikasi.
 
-# 🏗 Arsitektur Sistem
+# Arsitektur Sistem
 
 DompetKita dibangun menggunakan arsitektur client-server yang memanfaatkan layanan Firebase sebagai Authentication Provider serta backend REST API berbasis Go (Gin Framework).
 
@@ -562,7 +562,7 @@ DompetKita dibangun menggunakan arsitektur client-server yang memanfaatkan layan
 ```
 
 
-# 📲 Fitur Deep Link
+# Fitur Deep Link
 
 DompetKita mendukung **Deep Link** sehingga pengguna dapat langsung membuka halaman tertentu di dalam aplikasi tanpa harus menavigasi secara manual.
 
@@ -851,50 +851,33 @@ Beberapa fitur yang direncanakan pada versi berikutnya:
 # Tampilan Aplikasi
 
 ## Login
+<img src="screenshots/halaman_login.jpeg">
 
-<p align="center">
-<img src="screenshots/halaman_login.jpeg" width="250">
-</p>
 
 
 ## Register
-
-<p align="center">
-<img src="screenshots/register.png" width="250">
-</p>
+<img src="screenshots/halaman_login.jpeg">
 
 ---
 
 ## Home
-
-<p align="center">
-<img src="screenshots/halaman1_dashboard.jpeg" width="250">
-</p>
+<img src="screenshots/halaman_dashboard.jpeg">
 
 ---
 
 
 ## Top Up
-
-<p align="center">
-<img src="screenshots/isi_saldo.jpeg" width="250">
-</p>
+<img src="screenshots/isi_saldo.jpeg">
 
 ---
 
 ## Payment
-
-<p align="center">
-<img src="screenshots/konfirmasi_pembayaran.jpeg" width="250">
-</p>
+<img src="screenshots/konfirmasi_pembayaran.jpeg">
 
 ---
 
 ## Transaction History
-
-<p align="center">
-<img src="screenshots/riwayat_transaksi.jpeg" width="250">
-</p>
+<img src="screenshots/riwayat_transaksi.jpeg">
 
 ---
 
