@@ -183,7 +183,7 @@ class _PinPageState extends State<PinPage> {
               });
             } else if (state is PaymentTopupSuccess) {
               context.go('/success', extra: {
-                'title': 'Top up berhasil',
+                'title': 'Yeayy Top up Kamu berhasil Nih',
                 'subtitle': 'Saldo kamu bertambah',
                 'amount': state.amount,
                 'lines': [
