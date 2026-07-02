@@ -141,7 +141,7 @@ class _PaymentQrPageState extends State<PaymentQrPage> {
               ),
               if (_detected) const SizedBox(width: 8),
               Text(
-                _detected ? 'Kode terdeteksi' : 'Arahkan kamera ke kode QRIS',
+                _detected ? 'Kode terdeteksi' : 'Arahkan kameranya ke kode QRIS',
                 style: TextStyle(
                   fontFamily: 'PlusJakartaSans',
                   color: Colors.white.withValues(alpha: 0.7),
