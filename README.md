@@ -851,33 +851,33 @@ Beberapa fitur yang direncanakan pada versi berikutnya:
 # Tampilan Aplikasi
 
 ## Login
-<img src="screenshots/halaman_login.jpeg">
+<img src="assets/screenshots/halaman_login.jpeg">
 
 
 
 ## Register
-<img src="screenshots/halaman_login.jpeg">
+<img src="assets/screenshots/halaman_login.jpeg">
 
 ---
 
 ## Home
-<img src="screenshots/halaman_dashboard.jpeg">
+<img src="assets/screenshots/halaman_dashboard.jpeg">
 
 ---
 
 
 ## Top Up
-<img src="screenshots/isi_saldo.jpeg">
+<img src="assets/screenshots/isi_saldo.jpeg">
 
 ---
 
 ## Payment
-<img src="screenshots/konfirmasi_pembayaran.jpeg">
+<img src="assets/screenshots/konfirmasi_pembayaran.jpeg">
 
 ---
 
 ## Transaction History
-<img src="screenshots/riwayat_transaksi.jpeg">
+<img src="assets/screenshots/riwayat_transaksi.jpeg">
 
 ---
 
