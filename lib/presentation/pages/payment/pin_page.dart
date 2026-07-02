@@ -282,7 +282,7 @@ class _PinPageState extends State<PinPage> {
                     children: [
                       CircularProgressIndicator(color: AppColors.primary),
                       SizedBox(height: 18),
-                      Text('Memproses transaksi…',
+                      Text('Memproses transaksi kamu…',
                           style: TextStyle(
                             fontFamily: 'PlusJakartaSans',
                             fontSize: 15,
