@@ -135,7 +135,7 @@ class _LoginPageState extends State<LoginPage> {
                             letterSpacing: -0.4,
                           )),
                       const SizedBox(height: 6),
-                      const Text('Selamat datang kembali',
+                      const Text('Selamat datang',
                           style: TextStyle(fontSize: 14.5, color: AppColors.slate500)),
                       const SizedBox(height: 24),
                       // Google sign in
