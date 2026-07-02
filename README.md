@@ -1,19 +1,6 @@
 # dompetkita
 # DompetKita
 
-<p align="center">
-  <img src="assets/images/logo.png" alt="DompetKita Logo" width="180"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter">
-  <img src="https://img.shields.io/badge/Dart-3.x-blue?logo=dart">
-  <img src="https://img.shields.io/badge/Firebase-Authentication-orange?logo=firebase">
-  <img src="https://img.shields.io/badge/Firebase-FCM-yellow?logo=firebase">
-  <img src="https://img.shields.io/badge/Go-Gin-blue?logo=go">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql">
-  <img src="https://img.shields.io/badge/Platform-Android-green?logo=android">
-</p>
 
 
 # Deskripsi
