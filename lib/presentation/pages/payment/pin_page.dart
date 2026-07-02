@@ -213,7 +213,7 @@ class _PinPageState extends State<PinPage> {
               }
               ScaffoldMessenger.of(context).showSnackBar(
                 SnackBar(
-                  content: Text('Saldo tidak cukup. Saldo kamu saat ini ${CurrencyFormatter.format(state.balance)}.'),
+                  content: Text('Saldo tidak cukup nih. Saldo kamu saat ini ${CurrencyFormatter.format(state.balance)}.'),
                   backgroundColor: AppColors.red,
                 ),
               );
