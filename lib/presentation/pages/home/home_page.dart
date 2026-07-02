@@ -445,14 +445,14 @@ class _HomePageState extends State<HomePage> {
                     color: Colors.white.withValues(alpha: 0.12),
                     borderRadius: BorderRadius.circular(14),
                   ),
-                  child: const Icon(Icons.link_rounded, size: 24, color: Color(0xFF5B9BFF)),
+                  child: const Icon(Icons.link_rounded, size: 24, color: Color(0xFFFF8F00)),
                 ),
                 const SizedBox(width: 13),
                 const Expanded(
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('Coba bayar dari toko online',
+                      Text('Cobain bayar dari toko online sekarang',
                           style: TextStyle(
                             fontFamily: 'PlusJakartaSans',
                             fontSize: 14.5,
