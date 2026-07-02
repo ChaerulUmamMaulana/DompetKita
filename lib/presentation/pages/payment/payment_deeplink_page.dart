@@ -62,7 +62,7 @@ class PaymentDeeplinkPage extends StatelessWidget {
                   onPressed: () => _cancel(context, payload),
                 ),
                 const Expanded(
-                  child: Text('Konfirmasi Pembayaran',
+                  child: Text('Konfirmasi Pembayarannya',
                       style: TextStyle(
                         fontFamily: 'PlusJakartaSans',
                         color: Colors.white,
