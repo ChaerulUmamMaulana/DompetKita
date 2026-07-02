@@ -514,7 +514,7 @@ class _HomePageState extends State<HomePage> {
               ? const Padding(
                   padding: EdgeInsets.all(20),
                   child: Center(
-                    child: Text('Belum ada transaksi',
+                    child: Text('Belum ada transaksi nih',
                         style: TextStyle(color: AppColors.slate400, fontFamily: 'PlusJakartaSans')),
                   ),
                 )
