@@ -70,7 +70,7 @@ class _PaymentQrPageState extends State<PaymentQrPage> {
               onPressed: () => context.go('/home'),
             ),
             const Expanded(
-              child: Text('Scan QRIS',
+              child: Text('Scan QRIS Disini',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontFamily: 'PlusJakartaSans',
