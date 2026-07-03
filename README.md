@@ -876,7 +876,7 @@ Demo aplikasi dapat dilihat melalui video berikut
 
 
 ```
-https://youtu.be/xxxxxxxx
+[https://youtu.be/xxxxxxxx](https://youtu.be/mgmOO8LHKYI?si=raM6AxAWdtdrvbxd)
 ```
 
 ---
